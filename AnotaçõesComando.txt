@@ -1,0 +1,8 @@
+// formatando strings
+
+        //s.length  // conta quantos caracteres a string tem
+        //s.toUpperCase() // Joga tudo pra MAIÚSCULO
+        //s.toLowerCase() // Joga tudo pra minúsculo 
+        
+        
+        // n1.toLocaleString('pt-br', {style: 'currency', currency: 'BRL'}) comando para aparecer R$ ou $ ou Euro no Java. 
